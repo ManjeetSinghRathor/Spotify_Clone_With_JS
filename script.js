@@ -7,7 +7,6 @@
 let videoList = [
     "./backgroundVideos/train_-_90408 (Original).mp4",
     "./backgroundVideos/154610 (Original).mp4",
-    "./backgroundVideos/dj_-_5180 (Original).mp4",
     "./backgroundVideos/music_-_35889 (Original).mp4",
     "./backgroundVideos/vinyl_-_57307 (1080p).mp4",
     "./backgroundVideos/neon_-_21368 (Original)",
