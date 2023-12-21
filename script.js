@@ -285,8 +285,6 @@ function playSong(a) {
         playpauseicon.classList.add('fa-pause');
             playIcon.classList.remove('fa-play');
             playIcon.classList.add('fa-pause');
-            audio.currentTime = 0;
-            timebar.value = 0;
             audio.play();
         } else {
             Video.pause();
@@ -296,8 +294,6 @@ function playSong(a) {
         playpauseicon.classList.add('fa-play');
             playIcon.classList.remove('fa-pause');
             playIcon.classList.add('fa-play');
-            audio.currentTime = 0;
-            timebar.value = 0;
             audio.pause();
         }
     
